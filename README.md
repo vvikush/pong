@@ -1,4 +1,4 @@
-# pong
+# Pong
 A simple two-player Pong clone written in C for the terminal.
 
 The game uses ASCII graphics, runs in step-by-step mode, displays the current score, and ends when one of the players reaches 21 points.
